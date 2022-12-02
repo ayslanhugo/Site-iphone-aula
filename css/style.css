@@ -32,7 +32,7 @@ html{
 }
 
 #cabecalho {
-    background-color: var(--cor-1);
+    background-color: var(--cor-2);
     margin-bottom: 30px;
     position: fixed;
     width: 100%;
